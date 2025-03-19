@@ -4,7 +4,7 @@ Welcome to my interactive portfolio built entirely in **Unity 2D**!
 Instead of a traditional list of projects, this portfolio lets you explore and interact with some of my work through a **2D platformer game**.
 
 ## 🎮 How to Play
-- **Move** – `W` `A` `S` `D`
+- **Move** – `A` `S` `D`
 - **Jump** – `Spacebar`
 - **Attack** – `J`
 - **Sprint** – `Left Shift`
